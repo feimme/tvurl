@@ -1,16 +1,9 @@
 {
 "spider":"https://raw.iqiq.io/feimme/tvurl/main/jar/0615.jar",
-
-
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2l0dmJveC5jYy90dmJveC96aGliby8xLnR4dA=="]}]}],
 "warningText": "接口由公众号【云星日记】免费提供",
 "wallpaper":"http://maoyingshi.cc/api.php",
-
-  
-  
 "sites":[
-//,"jar":""
-//影视资源
 {"key":"csp_77","name":"👒酷云七七|Q群：582874559","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/feimme/tvurl/main/jar/77.jar"},
 
   {
