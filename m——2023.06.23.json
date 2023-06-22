@@ -1,5 +1,5 @@
 {
-	"spider": "https://raw.iqiq.io/feimme/tvurl/main/jar/0615.jar",
+	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/feimme/tvurl/main/0615.jar",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
@@ -7,7 +7,7 @@
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2l0dmJveC5jYy90dmJveC96aGliby8xLnR4dA=="]
 		}]
 	}],
-	"warningText": "接口由公众号【云星日记】免费提供",
+	"warningText": "接口由【feimme】免费提供",
 	"wallpaper": "http://maoyingshi.cc/api.php",
 	"sites": [{
 			"key": "csp_77",
@@ -17,7 +17,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://raw.iqiq.io/feimme/tvurl/main/jar/77.jar"
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/feimme/tvurl/main/77.jar"
 		},
 
 		{
@@ -54,7 +54,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://raw.iqiq.io/feimme/tvurl/main/jar/77.jar"
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/feimme/tvurl/main/77.jar"
 		},
 
 		{
@@ -218,7 +218,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==",
-			"jar": "https://raw.iqiq.io/feimme/tvurl/main/jar/图图.jar"
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/feimme/tvurl/main/图图.jar"
 		},
 
 		{
@@ -560,7 +560,7 @@
 			"type": 3,
 			"api": "http://id.ganggang.live:63/js/drpy.min.js",
 			"ext": "http://id.ganggang.live:63/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js",
-			"jar": "https://raw.iqiq.io/feimme/tvurl/main/jar/JS.jar"
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/feimme/tvurl/main/JS.jar"
 		},
 		{
 			"key": "drpy_js_蜻蜓FM",
@@ -568,7 +568,7 @@
 			"type": 3,
 			"api": "http://id.ganggang.live:63/js/drpy.min.js",
 			"ext": "http://id.ganggang.live:63/js/蜻蜓FM.js",
-			"jar": "https://raw.iqiq.io/feimme/tvurl/main/jar/JS.jar"
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/feimme/tvurl/main/JS.jar"
 		},
 		{
 			"key": "csp_Yj1211",
