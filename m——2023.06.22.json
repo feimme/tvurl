@@ -87,8 +87,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://cms.maoyingshi.cc/api.php/app/"
-			// "4k解析" = 前往 api.maoyingshi.cc 进行自助购买
-			//1080免费提供
 		},
 
 
@@ -375,8 +373,6 @@
 			"ext": "https://www.zxzjhd.com/"
 		},
 		
-		//官方资源
-
 		{
 			"key": "csp_SP360",
 			"name": "💘360〔SP〕",
@@ -408,7 +404,6 @@
 			"filterable": 1
 		},
 
-		//动漫资源
 		{
 			"key": "csp_Anime1",
 			"name": "🐾日本动漫 | 动漫",
@@ -455,9 +450,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-
-
-		//爬虫资源
 
 		{
 			"key": "csp_XYQHiker素白白",
@@ -560,15 +552,13 @@
 			"playUrl": "json:https://www.jk.itvbox.cc:66/fflz.php?url="
 		},
 
-
-		//以下为娱乐资源
 		{
 			"key": "drpy_js_有声小说吧",
 			"name": "📻┃有声┃小说",
 			"type": 3,
 			"api": "http://id.ganggang.live:63/js/drpy.min.js",
 			"ext": "http://id.ganggang.live:63/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js",
-			"jar": https: //raw.iqiq.io/feimme/tvurl/main/jar/JS.jar"
+			"jar": "https: //raw.iqiq.io/feimme/tvurl/main/jar/JS.jar"
 		},
 		{
 			"key": "drpy_js_蜻蜓FM",

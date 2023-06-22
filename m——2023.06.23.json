@@ -370,7 +370,6 @@
 		},
 
 		//官方资源
-
 		{
 			"key": "csp_SP360",
 			"name": "💘360〔SP〕",
@@ -561,7 +560,7 @@
 			"type": 3,
 			"api": "http://id.ganggang.live:63/js/drpy.min.js",
 			"ext": "http://id.ganggang.live:63/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js",
-			"jar": https: //raw.iqiq.io/feimme/tvurl/main/jar/JS.jar"
+			"jar": "https://raw.iqiq.io/feimme/tvurl/main/jar/JS.jar"
 		},
 		{
 			"key": "drpy_js_蜻蜓FM",
