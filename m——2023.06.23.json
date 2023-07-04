@@ -7,7 +7,7 @@
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2l0dmJveC5jYy90dmJveC96aGliby8xLnR4dA=="]
 		}]
 	}],
-	"warningText": "接口由【feimme】免费提供",
+	"warningText": "接口免费提供",
 	"wallpaper": "http://maoyingshi.cc/api.php",
 	"sites": [{
 			"key": "csp_77",
@@ -851,7 +851,7 @@
 
 		{
 			"key": "说明",
-			"name": "公众号：云星日记",
+			"name": "",
 			"type": 3,
 			"api": "360",
 			"searchable": 1,
